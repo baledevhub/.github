@@ -49,10 +49,8 @@ We're a passionate developer team creating daily content and services for the de
 - 📧 ایمیل: contact@baledevhub.ir
 - 💬 پیام‌رسان بله: @BaleDevHub
 
-```svg
 <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
   <rect width="200" height="100" fill="#2b2d42" />
   <text x="100" y="50" font-family="Arial" font-size="16" fill="#ffffff" text-anchor="middle">به تیم BaleDevHub خوش آمدید</text>
   <text x="100" y="70" font-family="Arial" font-size="12" fill="#8d99ae" text-anchor="middle">جامعه توسعه‌دهندگان ایرانی</text>
 </svg>
-```
